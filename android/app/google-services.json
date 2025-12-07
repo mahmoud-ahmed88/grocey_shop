@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245534584042",
+    "project_id": "product-store-d3510",
+    "storage_bucket": "product-store-d3510.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245534584042:android:f76292dbc5a5404ed37b93",
+        "android_client_info": {
+          "package_name": "androidappbuild.gradle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyckLLoNVT3HeAorG6PxSDm-9YGRdzF40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
